@@ -8,9 +8,10 @@
 }
 .switcheroo[position="top"] {
   position: fixed;
-  top: 10%;
-  left: 20px;
+  top: 4.5%;
+  left: 270px;
   z-index: 999;
+  background-color: var(--dbckg0);
 }
 .switcheroo[position="bottom"] {
   position: fixed;
@@ -22,7 +23,7 @@
   width: 100%;
 }
 .switcheroo[direction="vertical"] {
-  height: 100%;
+  padding: inherit;
 }
 
 .switcheroo__squircles {
