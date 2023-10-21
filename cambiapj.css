@@ -1,0 +1,27 @@
+.cambiarAvatar {
+    display: none;
+}
+.cambiarNombre {
+    display: none;
+}
+.cambiarColorNombre {
+    display: none;
+}
+.cambiarMiniAvatar {
+    display: none;
+}
+.cambiarColorCabecera {
+    display: none;
+}
+.cambiarColorMensaje {
+    display: none;
+}
+.sinBorder {
+    padding: 20px;
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    outline-offset: none;
+    margin: -10px;
+    overflow: auto;
+}
